@@ -1356,6 +1356,10 @@ section.lazy-placeholder:after {
 .cid-sb3hz65bXU .dropdown-item:hover {
   color: #4284df;
 }
+.cid-sb3hz65bXU .widget-title,
+.cid-sb3hz65bXU .widget-icon {
+  color: #ffffff;
+}
 .cid-sb3ljTcb9D {
   background: linear-gradient(45deg, #cccccc, #ab81b6);
 }
